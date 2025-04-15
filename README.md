@@ -1,5 +1,5 @@
 # Transmission-line-loss-classifier-and-optimization
-This project classifies transmission loss line and then calculate the revenue optimized.
+Developed a model that classifies transmission loss lines and then uses PSO to calculate the revenue optimized.
 
 Objective achieved:
 
